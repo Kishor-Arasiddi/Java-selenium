@@ -1,4 +1,4 @@
-# Java Selenium Automation Framework
+# Java Selenium Automation
 
 A Java-based web automation testing framework built with Selenium WebDriver and TestNG, supporting parallel, group, and suite-level test execution.
 
