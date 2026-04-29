@@ -4,7 +4,7 @@ A Java-based web automation testing framework built with Selenium WebDriver and 
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Java-selenium/
@@ -33,7 +33,7 @@ Java-selenium/
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Tool/Library       | Purpose                              |
 |--------------------|--------------------------------------|
@@ -45,7 +45,7 @@ Java-selenium/
 
 ---
 
-## ✅ Features
+## Features
 
 - **Suite Execution** – Run full automation suites via `AutomationSuite1.xml` and `AutomationSuite2.xml`
 - **Group Execution** – Selectively run test groups using `GroupExecution1.xml` and `GroupExecution2.xml`
@@ -57,7 +57,7 @@ Java-selenium/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -84,7 +84,7 @@ Java-selenium/
 
 ---
 
-## ▶️ Running Tests
+## Running Tests
 
 ### Run a Full Suite
 Right-click on any `.xml` file in Eclipse and select **Run As → TestNG Suite**.
@@ -101,13 +101,13 @@ Right-click on any `.xml` file in Eclipse and select **Run As → TestNG Suite**
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 Failed or captured test screenshots are automatically saved to the `Screenshots/` directory. A sample reference screenshot (`ScreenshotsFacebook – log in or sign up.png`) is included to demonstrate the Facebook login test scenario.
 
 ---
 
-## 📊 Test Reports
+## Test Reports
 
 TestNG generates HTML reports automatically after each run. Find them under:
 ```
@@ -119,7 +119,7 @@ test-output/
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch: `git checkout -b feature/your-feature`
